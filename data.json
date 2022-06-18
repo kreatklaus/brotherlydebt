@@ -1,14 +1,14 @@
 [
     {
         "amount": 1,
-        "brother": "valk",
-        "date": 1655562582581,
-        "notes": "It begins."
-    },
-    {
-        "amount": 1,
         "brother": "kreat",
         "date": 1655562958081,
         "notes": "no"
+    },
+    {
+        "amount": 1,
+        "brother": "valk",
+        "date": 1655562582581,
+        "notes": "It begins."
     }
 ]
