@@ -1,22 +1,8 @@
 [
     {
-        "brother": "j",
-        "amount": 20,
-        "notes": "Probably owes me 20 anyway lmao"
-    },
-    {
-        "brother": "j",
-        "amount": 20,
-        "notes": "Probably owes me 20 anyway lmao"
-    },
-    {
-        "brother": "j",
-        "amount": 20,
-        "notes": "Probably owes me 20 anyway lmao"
-    },
-    {
-        "brother": "j",
-        "amount": 20,
-        "notes": "Probably owes me 20 anyway lmao"
+        "amount": 1,
+        "brother": "valk",
+        "date": 1655562582581,
+        "notes": "It begins."
     }
 ]
