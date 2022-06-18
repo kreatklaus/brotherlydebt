@@ -1,2 +1,2 @@
-# brotherlydebt
-Brotherly debt counter
+# brotherlydebt.github.io
+A brotherly debt counter.
